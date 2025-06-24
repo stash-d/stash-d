@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">## 👋 Oi! Eu sou o Marco (aka nckwolf)<br><br>Sou um desenvolvedor autodidata apaixonado por tecnologia, com foco em programação de baixo nível, automação, segurança digital e engenharia reversa.<br><br>🚀 Atualmente estudando e criando projetos com:<br>- Python (bots para Discord, automações)<br>- C e C++ (aprendizado de base e aplicações de sistemas)<br>- ESP8266 e eletrônica básica<br>- Linux, terminal e shell scripting<br><br>🛠️ Meus projetos no GitHub incluem:<br>- Bots customizados com comandos interativos<br>- Integração de sensores e automação com microcontroladores<br>- Estudos de criptografia, engenharia reversa e pentest<br><br>🎯 Buscando minha primeira oportunidade profissional na área de programação!<br>https://link-do-seu-site-aqui.com)</p>
+<p align="left">## 👋 Oi! Eu sou o Marco (aka nckwolf)<br><br>Sou um desenvolvedor autodidata apaixonado por tecnologia, com foco em programação de baixo nível, automação, segurança digital e engenharia reversa.<br><br>🚀 Atualmente estudando e criando projetos com:<br>- Python (bots para Discord, automações)<br>- C e C++ (aprendizado de base e aplicações de sistemas)<br>- ESP8266 e eletrônica básica<br>- Linux, terminal e shell scripting<br><br>🛠️ Meus projetos no GitHub incluem:<br>- Bots customizados com comandos interativos<br>- Integração de sensores e automação com microcontroladores<br>- Estudos de criptografia, engenharia reversa e pentest<br><br>🎯 Buscando minha primeira oportunidade profissional na área de programação!<br>https://link-do-seu-site-aqui.com</p>
 
 ###
 
